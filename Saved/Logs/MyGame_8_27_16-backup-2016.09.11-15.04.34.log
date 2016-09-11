@@ -1,0 +1,1183 @@
+﻿Log file open, 09/10/16 20:24:39
+LogInit:Display: Running engine for game: MyGame_8_27_16
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1094642358) SRandInit(1094642358).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.071688
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3106830
+LogInit: Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3106830
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Aug 30 2016 18:11:39
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.09.11-01.24.39:839][  0]LogInit: Selected Device Profile: [Windows]
+[2016.09.11-01.24.39:839][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.09.11-01.24.39:851][  0]LogInit: Computer: JOE-PC
+[2016.09.11-01.24.39:851][  0]LogInit: User: Joe
+[2016.09.11-01.24.39:851][  0]LogInit: CPU Page size=65536, Cores=4
+[2016.09.11-01.24.39:851][  0]LogInit: High frequency timer resolution =3.312695 MHz
+[2016.09.11-01.24.39:851][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2016.09.11-01.24.39:851][  0]LogMemory: Platform Memory Stats for Windows
+[2016.09.11-01.24.39:851][  0]LogMemory: Process Physical Memory: 257.13 MB used, 257.13 MB peak
+[2016.09.11-01.24.39:851][  0]LogMemory: Process Virtual Memory: 261.61 MB used, 261.61 MB peak
+[2016.09.11-01.24.39:851][  0]LogMemory: Physical Memory: 3472.14 MB used, 8131.74 MB total
+[2016.09.11-01.24.39:851][  0]LogMemory: Virtual Memory: 591.38 MB used, 8388608.00 MB total
+[2016.09.11-01.24.39:879][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.09.11-01.24.40:339][  0]LogD3D11RHI: D3D11 adapters:
+[2016.09.11-01.24.40:351][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 770' (Feature Level 11_0)
+[2016.09.11-01.24.40:351][  0]LogD3D11RHI:       1989/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.09.11-01.24.40:351][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.09.11-01.24.40:354][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.09.11-01.24.40:354][  0]LogD3D11RHI:     GPU DeviceId: 0x1184 (for the marketing name, search the web for "GPU Device Id")
+[2016.09.11-01.24.40:354][  0]LogWindows: EnumDisplayDevices:
+[2016.09.11-01.24.40:355][  0]LogWindows:    0. 'NVIDIA GeForce GTX 770' (P:0 D:1)
+[2016.09.11-01.24.40:355][  0]LogWindows:    1. 'NVIDIA GeForce GTX 770' (P:1 D:1)
+[2016.09.11-01.24.40:355][  0]LogWindows:    2. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2016.09.11-01.24.40:355][  0]LogWindows:    3. 'NVIDIA GeForce GTX 770' (P:0 D:0)
+[2016.09.11-01.24.40:355][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2016.09.11-01.24.40:355][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2016.09.11-01.24.40:355][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2016.09.11-01.24.40:355][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2016.09.11-01.24.40:355][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 770
+[2016.09.11-01.24.40:355][  0]LogD3D11RHI:   Driver Version: 368.81 (internal:10.18.13.6881, unified:368.81)
+[2016.09.11-01.24.40:355][  0]LogD3D11RHI:      Driver Date: 7-10-2016
+[2016.09.11-01.24.40:355][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.09.11-01.24.40:362][  0]LogD3D11RHI: Async texture creation enabled
+[2016.09.11-01.24.40:376][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.09.11-01.24.40:376][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Intermediate/Shaders/WorkingDirectory/3832/).
+[2016.09.11-01.24.40:376][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Joe/AppData/Local/Temp/UnrealShaderWorkingDir/8563D07F45EDFD233980E2877E5CFAA7/'.
+[2016.09.11-01.24.40:376][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.09.11-01.24.41:366][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.09.11-01.24.41:372][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.09.11-01.24.41:378][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.09.11-01.24.41:385][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.09.11-01.24.41:391][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.09.11-01.24.41:396][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.09.11-01.24.41:402][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.09.11-01.24.41:407][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.09.11-01.24.41:412][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.09.11-01.24.41:417][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.09.11-01.24.41:423][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.09.11-01.24.41:433][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.09.11-01.24.41:433][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.09.11-01.24.41:434][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.09.11-01.24.41:451][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.09.11-01.24.41:456][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.09.11-01.24.41:461][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2016.09.11-01.24.41:466][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.09.11-01.24.41:471][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.09.11-01.24.41:477][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.09.11-01.24.41:477][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.09.11-01.24.41:521][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.09.11-01.24.41:584][  0]LogDerivedDataCache: Loaded boot cache 0.06s 63MB C:/Users/Joe/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.09.11-01.24.41:584][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Joe/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2016.09.11-01.24.41:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.09.11-01.24.41:585][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.09.11-01.24.41:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.09.11-01.24.41:585][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.09.11-01.24.41:600][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.09.11-01.24.41:611][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Joe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.09.11-01.24.41:815][  0]LogInit: Selected Device Profile: [Windows]
+[2016.09.11-01.24.41:815][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2016.09.11-01.24.41:817][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.09.11-01.24.41:929][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.09.11-01.24.41:929][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.09.11-01.24.41:929][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.09.11-01.24.42:191][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: mygame_8_27_16, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 3853309300
+[2016.09.11-01.24.42:223][  0]LogAssetRegistry: FAssetRegistry took 0.0195 seconds to start up
+[2016.09.11-01.24.42:245][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.021003 seconds
+[2016.09.11-01.24.42:250][  0]LogUObjectArray: 29777 objects as part of root set at end of initial load.
+[2016.09.11-01.24.42:250][  0]LogUObjectAllocator: 6124704 out of 0 bytes used by permanent object pool.
+[2016.09.11-01.24.42:250][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.09.11-01.24.42:254][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.09.11-01.24.42:418][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.09.11-01.24.42:418][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.09.11-01.24.42:925][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.09.11-01.24.43:126][  0]SourceControl: Info Source control is disabled
+[2016.09.11-01.24.43:126][  0]SourceControl: Info Source control is disabled
+[2016.09.11-01.24.43:130][  0]SourceControl: Info Source control is disabled
+[2016.09.11-01.24.43:134][  0]SourceControl: Info Source control is disabled
+[2016.09.11-01.24.43:170][  0]LogLinker:Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2016.09.11-01.24.43:170][  0]LogLinker:Warning: Can't find file '/Game/SideScrollerBP/SideScrollerOverview'
+[2016.09.11-01.24.43:170][  0]LogUObjectGlobals:Warning: Failed to find object 'Class /Game/SideScrollerBP/SideScrollerOverview.SideScrollerOverview_C'
+[2016.09.11-01.24.43:294][  0]LogEngine: Initializing Engine...
+[2016.09.11-01.24.43:295][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2016.09.11-01.24.43:408][  0]LogAIModule: Creating AISystem for world Untitled
+[2016.09.11-01.24.43:419][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-01.24.43:434][  0]LogInit: FAudioDevice initialized.
+[2016.09.11-01.24.43:470][  0]LogDerivedDataCache: Saved boot cache 0.04s 62MB C:/Users/Joe/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2016.09.11-01.24.43:481][  0]LogInit: Texture streaming: Enabled
+[2016.09.11-01.24.43:497][  0]LogInit: Transaction tracking system initialized
+[2016.09.11-01.24.43:511][  0]BlueprintLog: New page: Editor Load
+[2016.09.11-01.24.43:554][  0]LocalizationService: Info Localization service is disabled
+[2016.09.11-01.24.43:602][  0]LogConsoleResponse:Display: 
+[2016.09.11-01.24.43:691][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2016.09.11-01.24.43:691][  0]LogCook:Display: Mobile HDR setting 1
+[2016.09.11-01.24.43:776][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/' took 0.01s
+[2016.09.11-01.24.43:776][  0]SourceControl: Info Source control is disabled
+[2016.09.11-01.24.43:776][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.09.11-01.24.43:780][  0]LightingResults: New page: Lighting Build
+[2016.09.11-01.24.43:781][  0]MapCheck: New page: Map Check
+[2016.09.11-01.24.43:781][  0]LightingResults: New page: Lighting Build
+[2016.09.11-01.24.44:620][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-01.24.44:630][  0]LogMaterial:Warning: Material /Game/StarterContent/Props/Materials/M_Shelf.M_Shelf needed to have new flag set bUsedWithSkeletalMesh !
+[2016.09.11-01.24.44:633][  0]LogMaterial: Missing cached shader map for material M_Shelf, compiling. 
+[2016.09.11-01.24.44:684][  0]MapCheck:Warning: Warning M_Shelf Material /Game/StarterContent/Props/Materials/M_Shelf.M_Shelf was missing the usage flag bUsedWithSkeletalMesh. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2016.09.11-01.24.44:685][  0]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.09.11-01.24.44:685][  0]LogMaterial:Warning: Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine needed to have new flag set bUsedWithSkeletalMesh !
+[2016.09.11-01.24.44:687][  0]LogMaterial: Missing cached shader map for material M_Wood_Pine, compiling. 
+[2016.09.11-01.24.44:720][  0]MapCheck:Warning: Warning M_Wood_Pine Material /Game/StarterContent/Materials/M_Wood_Pine.M_Wood_Pine was missing the usage flag bUsedWithSkeletalMesh. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2016.09.11-01.24.44:720][  0]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.09.11-01.24.44:722][  0]LogMaterial:Warning: Material /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut needed to have new flag set bUsedWithSkeletalMesh !
+[2016.09.11-01.24.44:725][  0]LogMaterial: Missing cached shader map for material M_Wood_Walnut, compiling. 
+[2016.09.11-01.24.44:758][  0]MapCheck:Warning: Warning M_Wood_Walnut Material /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut was missing the usage flag bUsedWithSkeletalMesh. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2016.09.11-01.24.44:758][  0]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.09.11-01.24.44:763][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.09.11-01.24.44:765][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.09.11-01.24.44:800][  0]MapCheck: Info Map check complete: 0 Error(s), 3 Warning(s), took 34.733ms to complete.
+[2016.09.11-01.24.44:814][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.039
+[2016.09.11-01.24.44:939][  0]LogCollectionManager: Loaded 0 collections in 0.001280 seconds
+[2016.09.11-01.24.45:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Collections/' took 0.01s
+[2016.09.11-01.24.45:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/Developers/Joe/Collections/' took 0.01s
+[2016.09.11-01.24.45:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/Collections/' took 0.01s
+[2016.09.11-01.24.45:023][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2016.09.11-01.24.45:033][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2141 classes and 415 folders.
+[2016.09.11-01.24.45:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.09.11-01.24.45:038][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.09.11-01.24.45:038][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0004 seconds. Added 12 classes and 0 folders.
+[2016.09.11-01.24.45:042][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2016.09.11-01.24.45:387][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2016.09.11-01.24.45:399][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2016.09.11-01.24.45:463][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2016.09.11-01.24.45:475][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.09.11-01.24.45:514][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2016.09.11-01.24.45:515][  0]LogLoad: (Engine Initialization) Total time: 6.37 seconds
+[2016.09.11-01.24.45:515][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.20 seconds
+[2016.09.11-01.24.45:515][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2016.09.11-01.24.45:515][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2016.09.11-01.24.45:528][  0]LogOcInput: OculusInput pre-init called
+[2016.09.11-01.24.45:549][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2016.09.11-01.24.45:853][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2016.09.11-01.24.46:121][  2]LogAssetRegistry: Asset discovery search completed in 3.9176 seconds
+[2016.09.11-01.24.46:121][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2016.09.11-01.24.46:121][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000025 seconds (updated 0 objects)
+[2016.09.11-01.25.13:238][803]LogEditorViewport: Clicking on Actor (LMB): EnemyAI_C (EnemyAI3)
+[2016.09.11-01.25.17:536][206]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 112 classes and 0 folders.
+[2016.09.11-01.25.20:365][372]LogRenderer: Reallocating scene render targets to support 1208x900 (Frame:3820).
+[2016.09.11-01.25.28:666][  7]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2016.09.11-01.25.28:729][  7]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2016.09.11-01.25.28:740][  7]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.09.11-01.25.28:766][  7]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2016.09.11-01.25.29:697][ 44]MaterialEditorStats: Info Base pass shader with static lighting: 49 instructions
+[2016.09.11-01.25.29:697][ 44]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.09.11-01.25.29:697][ 44]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.09.11-01.25.29:698][ 44]MaterialEditorStats: Info Texture samplers: 2/16
+[2016.09.11-01.25.35:554][556]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2016.09.11-01.25.35:564][556]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.09.11-01.25.35:690][556]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2016.09.11-01.25.36:281][583]MaterialEditorStats: Info Base pass shader with static lighting: 49 instructions
+[2016.09.11-01.25.36:281][583]MaterialEditorStats: Info Base pass shader with only dynamic lighting: 23 instructions
+[2016.09.11-01.25.36:281][583]MaterialEditorStats: Info Vertex shader: 29 instructions
+[2016.09.11-01.25.36:281][583]MaterialEditorStats: Info Texture samplers: 2/16
+[2016.09.11-01.25.41:332][ 24]LogMaterialEditor: Applying material BasicShapeMaterial
+[2016.09.11-01.25.41:699][ 24]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2016.09.11-01.25.41:719][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.09.11-01.25.41:789][ 24]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2016.09.11-01.25.41:846][ 24]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2016.09.11-01.25.41:878][ 24]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2016.09.11-01.25.47:816][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.09.11-01.25.50:116][706]LogSavePackage: Save=301.86ms
+[2016.09.11-01.25.50:116][706]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap0E0F33ED4A8DDCE1C35FB68E04DEEF45.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2016.09.11-01.25.50:118][706]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2016.09.11-01.35.50:410][879]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.012
+[2016.09.11-01.35.50:411][879]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial] ([1] browsable assets)...
+[2016.09.11-01.35.50:441][879]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial]
+[2016.09.11-01.35.50:441][879]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial]
+[2016.09.11-01.35.50:462][879]LogSavePackage: Save=13.14ms
+[2016.09.11-01.35.50:462][879]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/BasicShapeMaterial_Auto1E6D485F4469957D17BE1AB86D3CE8826.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto1.uasset'
+[2016.09.11-01.35.50:463][879]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Engine/BasicShapes/BasicShapeMaterial_Auto1.uasset
+[2016.09.11-01.35.50:463][879]LogFileHelpers: Auto-saving content packages took 0.052
+[2016.09.11-02.13.47:329][906]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.09.11-02.20.11:059][862]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.09.11-02.20.12:931][ 57]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.09.11-02.20.13:144][ 79]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.09.11-02.20.13:361][ 89]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.09.11-02.20.13:596][ 94]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.09.11-02.20.13:764][ 98]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.09.11-02.20.32:495][ 98]SourceControl: Info Source control is disabled
+[2016.09.11-02.20.57:023][896]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.09.11-02.41.58:186][362]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2016.09.11-02.45.21:383][174]LogDirectoryWatcher:Warning: Failed to begin reading directory changes for ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2016.09.11-02.45.51:960][823]LogWindows: LaunchURL http://epicgames.com
+[2016.09.11-02.46.34:336][952]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2016.09.11-02.46.38:646][457]SourceControl: Info Source control is disabled
+[2016.09.11-02.53.23:934][640]SourceControl: Info Source control is disabled
+[2016.09.11-02.57.59:929][932]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.012
+[2016.09.11-02.57.59:930][932]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-02.57.59:943][932]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-02.57.59:943][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-02.58.00:015][932]LogSavePackage: Save=65.83ms
+[2016.09.11-02.58.00:015][932]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto2259293904F5E41CEA6451AA821CAD2FB.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2016.09.11-02.58.00:017][932]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2016.09.11-02.58.00:017][932]LogFileHelpers: Auto-saving content packages took 0.087
+[2016.09.11-02.59.37:803][655]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-03.08.54:694][791]LogSavePackage: Save=247.58ms
+[2016.09.11-03.08.54:694][791]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto3795FB2264722A43AA5D11DBEA1F350AE.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2016.09.11-03.08.54:701][791]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2016.09.11-03.08.54:705][791]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.288
+[2016.09.11-03.08.54:705][791]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.288
+[2016.09.11-03.08.54:706][791]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-03.08.54:719][791]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-03.08.54:719][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-03.08.54:791][791]LogSavePackage: Save=67.32ms
+[2016.09.11-03.08.54:791][791]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto37B5881DA434761E24F5DE1B6744952B9.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2016.09.11-03.08.54:793][791]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2016.09.11-03.08.54:793][791]LogFileHelpers: Auto-saving content packages took 0.088
+[2016.09.11-03.10.09:618][893]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-03.10.28:290][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-03.10.28:290][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-03.10.28:291][453]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 4:10:28 PM)
+[2016.09.11-03.10.28:291][453]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-03.10.28:319][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027571s)
+[2016.09.11-03.10.28:320][453]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-03.10.28:320][453]LogPlayLevel: PIE: World Init took: (0.001488s)
+[2016.09.11-03.10.28:321][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029556s)
+[2016.09.11-03.10.28:343][453]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-03.10.28:349][453]LogInit: FAudioDevice initialized.
+[2016.09.11-03.10.28:402][453]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-03.10.28:410][453]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.10-22.10.28
+[2016.09.11-03.10.28:415][453]LogWorld: Bringing up level for play took: 0.010003
+[2016.09.11-03.10.28:423][453]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2016.09.11-03.10.28:423][453]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-03.10.28:423][453]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-03.10.28:423][453]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-03.10.28:429][453]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-03.10.28:429][453]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.413
+[2016.09.11-03.10.28:429][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-03.11.09:878][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-03.11.09:946][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-03.11.21:329][951]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-03.11.26:807][402]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-03.11.26:807][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-03.11.26:807][402]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 4:11:26 PM)
+[2016.09.11-03.11.26:807][402]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-03.11.26:836][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028781s)
+[2016.09.11-03.11.26:837][402]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-03.11.26:837][402]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2016.09.11-03.11.26:838][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030288s)
+[2016.09.11-03.11.26:858][402]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-03.11.26:862][402]LogInit: FAudioDevice initialized.
+[2016.09.11-03.11.26:890][402]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-03.11.26:896][402]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.10-22.11.26
+[2016.09.11-03.11.26:897][402]LogWorld: Bringing up level for play took: 0.005844
+[2016.09.11-03.11.26:898][402]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-03.11.26:898][402]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-03.11.26:898][402]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-03.11.26:900][402]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-03.11.26:901][402]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.058
+[2016.09.11-03.11.26:901][402]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-03.13.04:472][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-03.13.04:530][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-03.14.13:216][584]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-03.21.15:100][839]LogSavePackage: Save=248.78ms
+[2016.09.11-03.21.15:100][839]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto472C573534693D59E94A723857D694298.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2016.09.11-03.21.15:101][839]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2016.09.11-03.21.15:102][839]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.281
+[2016.09.11-03.21.15:102][839]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.281
+[2016.09.11-03.21.15:109][839]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-03.21.15:140][839]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-03.21.15:140][839]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-03.21.15:214][839]LogSavePackage: Save=67.68ms
+[2016.09.11-03.21.15:214][839]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto4176A0FA74C915DB29A0D1A9FCB80B0C4.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2016.09.11-03.21.15:215][839]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset
+[2016.09.11-03.21.15:215][839]LogFileHelpers: Auto-saving content packages took 0.107
+[2016.09.11-03.54.57:802][255]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.013
+[2016.09.11-03.54.57:804][255]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-03.54.57:832][255]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-03.54.57:832][255]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-03.54.57:904][255]LogSavePackage: Save=65.44ms
+[2016.09.11-03.54.57:904][255]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto534A447D246F33A2D9BB660B95E1E22E4.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset'
+[2016.09.11-03.54.57:905][255]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto5.uasset
+[2016.09.11-03.54.57:905][255]LogFileHelpers: Auto-saving content packages took 0.101
+[2016.09.11-04.00.43:509][116]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.04.47:371][545]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.05.13:276][556]LogSavePackage: Save=252.95ms
+[2016.09.11-04.05.13:276][556]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto60015A526428231CB870B24AC59DC64A8.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2016.09.11-04.05.13:277][556]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap
+[2016.09.11-04.05.13:278][556]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.285
+[2016.09.11-04.05.13:279][556]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.285
+[2016.09.11-04.05.13:280][556]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-04.05.13:295][556]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-04.05.13:295][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-04.05.13:373][556]LogSavePackage: Save=72.39ms
+[2016.09.11-04.05.13:373][556]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto69DD5509247DEDF1C5A6D52B343177673.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset'
+[2016.09.11-04.05.13:374][556]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto6.uasset
+[2016.09.11-04.05.13:374][556]LogFileHelpers: Auto-saving content packages took 0.094
+[2016.09.11-04.06.14:627][453]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.15.14:195][428]LogSavePackage: Save=251.37ms
+[2016.09.11-04.15.14:195][428]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto7BC404BCB41309653B8BF9AB71288EFA3.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2016.09.11-04.15.14:195][428]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap
+[2016.09.11-04.15.14:197][428]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.285
+[2016.09.11-04.15.14:197][428]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.285
+[2016.09.11-04.15.14:199][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-04.15.14:230][428]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-04.15.14:230][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-04.15.14:309][428]LogSavePackage: Save=72.92ms
+[2016.09.11-04.15.14:309][428]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto7738529F2455ABCCAFBF977865A157F93.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto7.uasset'
+[2016.09.11-04.15.14:310][428]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto7.uasset
+[2016.09.11-04.15.14:310][428]LogFileHelpers: Auto-saving content packages took 0.113
+[2016.09.11-04.19.25:610][ 66]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.19.25:659][ 66]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a EnemyAI_C, therefore ' self ' must have a connection.
+[2016.09.11-04.19.25:661][ 66]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error Variable node  K2Node_VariableGet_157  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.09.11-04.19.25:997][ 66]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a EnemyAI_C, therefore ' self ' must have a connection.
+[2016.09.11-04.19.25:997][ 66]BlueprintEditorCompileResults:Error: Error Variable node  K2Node_VariableGet_157  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2016.09.11-04.19.25:997][ 66]LogBlueprint:Warning: [Compiler ThirdPersonCharacter] Warning [0486.68] Compile of ThirdPersonCharacter failed. 2 Fatal Issue(s) 0 Warning(s) [in 387 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2016.09.11-04.19.47:097][547]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.19.55:206][489]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.23.08:533][949]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.25.14:415][956]LogSavePackage: Save=244.60ms
+[2016.09.11-04.25.14:415][956]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto824032F10410EB0D60A379A9E39A4AFF3.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2016.09.11-04.25.14:416][956]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap
+[2016.09.11-04.25.14:417][956]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.275
+[2016.09.11-04.25.14:417][956]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.275
+[2016.09.11-04.25.14:419][956]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-04.25.14:434][956]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-04.25.14:434][956]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-04.25.14:515][956]LogSavePackage: Save=74.59ms
+[2016.09.11-04.25.14:515][956]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto8ADA1B95D4468739A83C5BDA892329B17.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto8.uasset'
+[2016.09.11-04.25.14:516][956]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto8.uasset
+[2016.09.11-04.25.14:516][956]LogFileHelpers: Auto-saving content packages took 0.098
+[2016.09.11-04.35.59:171][951]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.018
+[2016.09.11-04.35.59:172][951]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-04.35.59:205][951]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-04.35.59:205][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-04.35.59:289][951]LogSavePackage: Save=77.10ms
+[2016.09.11-04.35.59:289][951]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto9B5DCDE7D4B64F6920ECEDBB79CC4CB10.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto9.uasset'
+[2016.09.11-04.35.59:290][951]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto9.uasset
+[2016.09.11-04.35.59:290][951]LogFileHelpers: Auto-saving content packages took 0.119
+[2016.09.11-04.36.34:423][760]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.46.00:745][ 83]LogSavePackage: Save=254.42ms
+[2016.09.11-04.46.00:745][ 83]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto0ED61639B4534F1F1D299999A76FA3AFA.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2016.09.11-04.46.00:746][ 83]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap
+[2016.09.11-04.46.00:747][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.290
+[2016.09.11-04.46.00:747][ 83]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.290
+[2016.09.11-04.46.00:749][ 83]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-04.46.00:765][ 83]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-04.46.00:765][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-04.46.00:848][ 83]LogSavePackage: Save=75.55ms
+[2016.09.11-04.46.00:848][ 83]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto0EB819F174A0A12A115E450BB44BD1C81.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto0.uasset'
+[2016.09.11-04.46.00:849][ 83]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto0.uasset
+[2016.09.11-04.46.00:849][ 83]LogFileHelpers: Auto-saving content packages took 0.100
+[2016.09.11-04.50.02:672][599]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.51.50:651][ 81]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.59.11:890][268]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.59.11:940][268]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2016.09.11-04.59.12:112][268]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2016.09.11-04.59.12:112][268]LogBlueprint:Warning: [Compiler ThirdPersonCharacter] Warning [2872.76] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 221 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2016.09.11-04.59.22:847][535]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.59.22:895][535]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2016.09.11-04.59.23:066][535]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2016.09.11-04.59.23:066][535]LogBlueprint:Warning: [Compiler ThirdPersonCharacter] Warning [2883.71] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 219 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2016.09.11-04.59.52:029][981]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-04.59.52:077][981]LogBlueprint:Error: [Compiler ThirdPersonCharacter] Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2016.09.11-04.59.52:245][981]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a SceneComponent, therefore ' self ' must have a connection.
+[2016.09.11-04.59.52:246][981]LogBlueprint:Warning: [Compiler ThirdPersonCharacter] Warning [2912.89] Compile of ThirdPersonCharacter failed. 1 Fatal Issue(s) 0 Warning(s) [in 216 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2016.09.11-05.00.02:467][175]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.00.23:802][695]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.01.19:359][283]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.03.43:515][314]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.07.14:464][104]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.08.07:317][352]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.12.09:831][102]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.12.42:500][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.12.42:500][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.12.42:500][675]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:12:42 PM)
+[2016.09.11-05.12.42:500][675]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.12.42:528][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027880s)
+[2016.09.11-05.12.42:529][675]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.12.42:529][675]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2016.09.11-05.12.42:530][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.029564s)
+[2016.09.11-05.12.42:554][675]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.12.42:558][675]LogInit: FAudioDevice initialized.
+[2016.09.11-05.12.42:585][675]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.12.42:591][675]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.12.42
+[2016.09.11-05.12.42:592][675]LogWorld: Bringing up level for play took: 0.006027
+[2016.09.11-05.12.42:593][675]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.12.42:593][675]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.12.42:593][675]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.12.42:595][675]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.12.42:595][675]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.364
+[2016.09.11-05.12.42:596][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.12.47:780][294]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.48:436][373]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.48:836][421]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.49:411][490]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.50:069][569]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.50:336][601]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.50:545][626]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.50:737][649]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.50:929][672]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.51:129][696]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.51:329][720]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.51:520][743]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.51:720][767]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.51:920][791]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.52:120][815]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.52:312][838]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.52:520][863]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.52:712][886]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.52:904][909]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.53:095][932]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.53:320][959]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.53:495][980]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.53:687][  3]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.53:895][ 28]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.54:104][ 53]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.54:312][ 78]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.54:504][101]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.54:712][126]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.55:237][189]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.55:554][227]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.57:520][463]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.58:129][536]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.58:629][596]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.59:029][644]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.59:270][673]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.59:687][723]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.12.59:920][751]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.00:229][788]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.01:029][884]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.01:312][918]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.01:570][949]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.01:862][984]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.02:695][ 84]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.02:929][112]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.03:954][235]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.08:696][804]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.09:396][888]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.09:813][938]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.10:680][ 42]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.11:063][ 88]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.15:780][654]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.16:288][715]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.16:496][740]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.16:688][763]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.16:896][788]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.17:088][811]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.17:313][838]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.17:521][863]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.17:730][888]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.17:938][913]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.18:130][936]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.18:338][961]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.18:530][984]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.21:480][338]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.21:680][362]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.21:905][389]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.22:096][412]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.22:288][435]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.25:464][816]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.25:906][869]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.26:147][898]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.31:847][582]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.34:064][848]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.36:039][ 85]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.36:322][119]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.36:547][146]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.36:772][173]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.36:981][198]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.37:189][223]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.13.40:282][594]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.13.40:352][594]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.14.18:038][269]LogSavePackage: Save=263.19ms
+[2016.09.11-05.14.18:038][269]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto18220047741FD64E6641031B26BEA80FC.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2016.09.11-05.14.18:045][269]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2016.09.11-05.14.18:046][269]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.306
+[2016.09.11-05.14.18:046][269]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.306
+[2016.09.11-05.14.18:048][269]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-05.14.18:072][269]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-05.14.18:072][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-05.14.18:161][269]LogSavePackage: Save=81.94ms
+[2016.09.11-05.14.18:161][269]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto1742E4E65441B98880109D8BF8F51FD14.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2016.09.11-05.14.18:162][269]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2016.09.11-05.14.18:162][269]LogFileHelpers: Auto-saving content packages took 0.115
+[2016.09.11-05.19.10:679][973]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.19.27:321][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.19.27:321][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.19.27:321][447]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:19:27 PM)
+[2016.09.11-05.19.27:321][447]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.19.27:346][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024934s)
+[2016.09.11-05.19.27:347][447]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.19.27:348][447]LogPlayLevel: PIE: World Init took: (0.001756s)
+[2016.09.11-05.19.27:348][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026953s)
+[2016.09.11-05.19.27:372][447]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.19.27:377][447]LogInit: FAudioDevice initialized.
+[2016.09.11-05.19.27:404][447]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.19.27:410][447]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.19.27
+[2016.09.11-05.19.27:411][447]LogWorld: Bringing up level for play took: 0.006267
+[2016.09.11-05.19.27:412][447]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.19.27:412][447]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.19.27:412][447]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.19.27:414][447]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.19.27:414][447]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.448
+[2016.09.11-05.19.27:414][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.19.37:939][707]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.38:264][746]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.39:064][842]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.39:606][907]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.40:372][999]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.42:056][201]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.42:272][227]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.42:497][254]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.42:914][304]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.43:122][329]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.43:331][354]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.43:539][379]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.48:164][934]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.48:722][  1]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.48:947][ 28]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.49:156][ 53]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.49:364][ 78]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.49:572][103]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.49:781][128]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.49:956][149]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.50:165][174]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.50:357][197]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.50:548][220]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.50:740][243]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.50:948][268]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.51:140][291]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.51:348][316]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.51:540][339]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.51:748][364]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.51:957][389]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.52:165][414]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.52:357][437]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.52:565][462]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.52:773][487]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.52:982][512]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.53:190][537]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.53:398][562]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.19.55:308][791]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.19.55:375][791]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.19.56:623][924]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.19.56:623][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.19.56:623][924]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:19:56 PM)
+[2016.09.11-05.19.56:623][924]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.19.56:646][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023215s)
+[2016.09.11-05.19.56:648][924]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.19.56:648][924]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2016.09.11-05.19.56:648][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025216s)
+[2016.09.11-05.19.56:672][924]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.19.56:689][924]LogInit: FAudioDevice initialized.
+[2016.09.11-05.19.56:716][924]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.19.56:721][924]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.19.56
+[2016.09.11-05.19.56:722][924]LogWorld: Bringing up level for play took: 0.005639
+[2016.09.11-05.19.56:723][924]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.19.56:723][924]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.19.56:723][924]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.19.56:725][924]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.19.56:725][924]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.242
+[2016.09.11-05.19.56:726][924]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.20.07:223][181]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.08:041][279]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.08:291][309]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.08:499][334]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.08:691][357]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.08:883][380]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.09:158][413]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.09:941][507]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.10:849][616]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.11:249][664]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.12:216][780]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.12:449][808]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.12:641][831]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.12:866][858]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.13:058][881]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.13:266][906]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.13:458][929]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.16:424][285]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.16:641][311]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.16:866][338]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.17:058][361]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.17:266][386]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.17:474][411]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.17:683][436]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.17:891][461]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.18:083][484]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.18:391][521]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.18:675][555]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.18:883][580]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.20:833][814]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.21:041][839]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.21:249][864]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.21:458][889]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.21:683][916]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.21:891][941]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (CheckLockOn) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.20.23:409][123]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.20.23:455][123]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.27.25:521][883]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.27.31:850][412]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.27.31:850][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.27.31:850][412]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:27:31 PM)
+[2016.09.11-05.27.31:850][412]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.27.31:876][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025799s)
+[2016.09.11-05.27.31:878][412]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.27.31:878][412]LogPlayLevel: PIE: World Init took: (0.001466s)
+[2016.09.11-05.27.31:878][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027635s)
+[2016.09.11-05.27.31:903][412]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.27.31:908][412]LogInit: FAudioDevice initialized.
+[2016.09.11-05.27.31:934][412]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.27.31:940][412]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.27.31
+[2016.09.11-05.27.31:941][412]LogWorld: Bringing up level for play took: 0.005953
+[2016.09.11-05.27.31:942][412]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.27.31:942][412]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.27.31:942][412]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.27.31:944][412]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.27.31:944][412]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.97
+[2016.09.11-05.27.31:944][412]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.27.51:479][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.27.51:551][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.28.01:750][913]LogSavePackage: Save=256.33ms
+[2016.09.11-05.28.01:750][913]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto2255E5DC941343DD7DD83988772440457.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2016.09.11-05.28.01:751][913]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap
+[2016.09.11-05.28.01:752][913]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.288
+[2016.09.11-05.28.01:753][913]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.288
+[2016.09.11-05.28.01:754][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-05.28.01:778][913]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-05.28.01:778][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-05.28.01:867][913]LogSavePackage: Save=82.64ms
+[2016.09.11-05.28.01:867][913]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto2788078524206FB58312D4291C4561B2F.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2016.09.11-05.28.01:869][913]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset
+[2016.09.11-05.28.01:869][913]LogFileHelpers: Auto-saving content packages took 0.116
+[2016.09.11-05.28.36:859][ 89]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.28.40:797][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.28.40:797][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.28.40:797][526]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:28:40 PM)
+[2016.09.11-05.28.40:797][526]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.28.40:821][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024175s)
+[2016.09.11-05.28.40:823][526]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.28.40:823][526]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2016.09.11-05.28.40:823][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026177s)
+[2016.09.11-05.28.40:847][526]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.28.40:865][526]LogInit: FAudioDevice initialized.
+[2016.09.11-05.28.40:895][526]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.28.40:901][526]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.28.40
+[2016.09.11-05.28.40:902][526]LogWorld: Bringing up level for play took: 0.006033
+[2016.09.11-05.28.40:903][526]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.28.40:903][526]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.28.40:903][526]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.28.40:905][526]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.28.40:905][526]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.07
+[2016.09.11-05.28.40:905][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.28.58:973][691]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.28.59:042][691]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.30.20:391][ 47]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.38.20:598][130]LogSavePackage: Save=289.35ms
+[2016.09.11-05.38.20:598][130]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto3941A48DD4A9D396BABC63DB113D51822.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2016.09.11-05.38.20:602][130]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap
+[2016.09.11-05.38.20:603][130]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.326
+[2016.09.11-05.38.20:603][130]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.326
+[2016.09.11-05.38.20:606][130]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-05.38.20:633][130]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-05.38.20:633][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-05.38.20:723][130]LogSavePackage: Save=83.36ms
+[2016.09.11-05.38.20:723][130]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto3D46BB22049FCA11C35A6C3AB9ADF567A.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2016.09.11-05.38.20:725][130]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2016.09.11-05.38.20:725][130]LogFileHelpers: Auto-saving content packages took 0.120
+[2016.09.11-05.41.51:557][624]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.41.55:119][988]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.41.57:844][285]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.41.57:844][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.41.57:844][285]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:41:57 PM)
+[2016.09.11-05.41.57:844][285]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.41.57:868][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023774s)
+[2016.09.11-05.41.57:869][285]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.41.57:869][285]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2016.09.11-05.41.57:869][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025401s)
+[2016.09.11-05.41.57:894][285]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.41.57:913][285]LogInit: FAudioDevice initialized.
+[2016.09.11-05.41.57:939][285]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.41.57:945][285]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.41.57
+[2016.09.11-05.41.57:946][285]LogWorld: Bringing up level for play took: 0.005783
+[2016.09.11-05.41.57:946][285]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.41.57:946][285]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.41.57:946][285]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.41.57:949][285]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.41.57:949][285]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.961
+[2016.09.11-05.41.57:949][285]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.41.59:507][469]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.10:248][758]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.10:248][758]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.10:898][836]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.10:898][836]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.11:298][884]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.11:298][884]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.12:248][998]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.12:248][998]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.12:531][ 32]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.12:531][ 32]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.12:773][ 61]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.12:773][ 61]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.12:965][ 84]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.12:965][ 84]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.13:156][107]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.13:157][107]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.13:331][128]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.13:332][128]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.13:573][157]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.13:573][157]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.13:781][182]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.13:782][182]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.14:373][253]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.14:374][253]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.14:581][278]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.14:582][278]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.14:773][301]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.14:774][301]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.14:965][324]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.14:965][324]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:190][351]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:190][351]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:365][372]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:365][372]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:590][399]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:590][399]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:798][424]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:799][424]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:990][447]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.15:990][447]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.16:198][472]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.16:199][472]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.16:407][497]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.16:408][497]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.16:616][522]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.16:616][522]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.16:824][547]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.16:825][547]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:032][572]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:033][572]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:224][595]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:224][595]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:449][622]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:450][622]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:641][645]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:641][645]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:849][670]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.17:850][670]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.18:057][695]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.18:058][695]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.18:249][718]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.18:250][718]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.18:457][743]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.18:458][743]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.18:666][768]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.18:866][792]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.18:866][792]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:074][817]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:075][817]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:299][844]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:300][844]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:491][867]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:491][867]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:699][892]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:700][892]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:907][917]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.19:908][917]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:116][942]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:116][942]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:324][967]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:325][967]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:532][992]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:533][992]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:741][ 17]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:741][ 17]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:932][ 40]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.20:933][ 40]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.21:124][ 63]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.21:125][ 63]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.21:316][ 86]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.21:316][ 86]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.21:524][111]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.21:524][111]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.21:716][134]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.21:716][134]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.22:391][215]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.22:391][215]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.22:657][247]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.22:658][247]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (None) or object (ThirdPersonCharacter_167)
+[2016.09.11-05.42.24:632][482]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.42.24:704][482]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.43.01:751][423]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.43.04:810][726]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.43.04:810][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.43.04:810][726]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:43:04 PM)
+[2016.09.11-05.43.04:810][726]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.43.04:832][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022058s)
+[2016.09.11-05.43.04:833][726]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.43.04:834][726]LogPlayLevel: PIE: World Init took: (0.001983s)
+[2016.09.11-05.43.04:834][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024476s)
+[2016.09.11-05.43.04:859][726]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.43.04:876][726]LogInit: FAudioDevice initialized.
+[2016.09.11-05.43.04:904][726]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.43.04:910][726]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.43.04
+[2016.09.11-05.43.04:911][726]LogWorld: Bringing up level for play took: 0.005909
+[2016.09.11-05.43.04:912][726]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.43.04:912][726]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.43.04:912][726]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.43.04:914][726]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.43.04:914][726]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.075
+[2016.09.11-05.43.04:914][726]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.43.36:824][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.43.36:895][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.43.47:928][824]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.43.54:644][596]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.43.57:227][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.43.57:228][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.43.57:228][873]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:43:57 PM)
+[2016.09.11-05.43.57:228][873]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.43.57:249][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021642s)
+[2016.09.11-05.43.57:251][873]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.43.57:251][873]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2016.09.11-05.43.57:251][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023310s)
+[2016.09.11-05.43.57:276][873]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.43.57:293][873]LogInit: FAudioDevice initialized.
+[2016.09.11-05.43.57:327][873]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.43.57:342][873]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.43.57
+[2016.09.11-05.43.57:345][873]LogWorld: Bringing up level for play took: 0.016431
+[2016.09.11-05.43.57:347][873]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.43.57:347][873]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.43.57:347][873]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.43.57:351][873]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.43.57:351][873]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.361
+[2016.09.11-05.43.57:351][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.44.47:765][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.44.47:838][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.45.44:395][226]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.45.46:972][509]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.45.46:973][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.45.46:973][509]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:45:46 PM)
+[2016.09.11-05.45.46:973][509]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.45.46:996][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023261s)
+[2016.09.11-05.45.46:997][509]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.45.46:998][509]LogPlayLevel: PIE: World Init took: (0.001462s)
+[2016.09.11-05.45.46:998][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025039s)
+[2016.09.11-05.45.47:023][509]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.45.47:040][509]LogInit: FAudioDevice initialized.
+[2016.09.11-05.45.47:068][509]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.45.47:075][509]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.45.47
+[2016.09.11-05.45.47:076][509]LogWorld: Bringing up level for play took: 0.006832
+[2016.09.11-05.45.47:077][509]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.45.47:077][509]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.45.47:077][509]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.45.47:079][509]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.45.47:079][509]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.087
+[2016.09.11-05.45.47:079][509]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.45.56:379][622]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.45.56:448][622]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.45.58:286][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.45.58:286][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.45.58:287][828]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:45:58 PM)
+[2016.09.11-05.45.58:287][828]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.45.58:307][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020130s)
+[2016.09.11-05.45.58:308][828]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.45.58:309][828]LogPlayLevel: PIE: World Init took: (0.001701s)
+[2016.09.11-05.45.58:309][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022170s)
+[2016.09.11-05.45.58:332][828]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.45.58:349][828]LogInit: FAudioDevice initialized.
+[2016.09.11-05.45.58:377][828]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.45.58:382][828]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.45.58
+[2016.09.11-05.45.58:384][828]LogWorld: Bringing up level for play took: 0.005844
+[2016.09.11-05.45.58:384][828]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.45.58:384][828]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.45.58:384][828]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.45.58:387][828]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.45.58:387][828]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.605
+[2016.09.11-05.45.58:387][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.46.06:337][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.46.06:384][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.46.15:937][889]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.46.21:864][553]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.46.26:156][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.46.26:156][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.46.26:156][ 28]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:46:26 PM)
+[2016.09.11-05.46.26:156][ 28]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.46.26:178][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022163s)
+[2016.09.11-05.46.26:179][ 28]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.46.26:180][ 28]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2016.09.11-05.46.26:180][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023992s)
+[2016.09.11-05.46.26:204][ 28]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.46.26:222][ 28]LogInit: FAudioDevice initialized.
+[2016.09.11-05.46.26:248][ 28]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.46.26:254][ 28]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.46.26
+[2016.09.11-05.46.26:255][ 28]LogWorld: Bringing up level for play took: 0.005876
+[2016.09.11-05.46.26:255][ 28]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.46.26:255][ 28]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.46.26:255][ 28]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.46.26:258][ 28]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.46.26:258][ 28]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.735
+[2016.09.11-05.46.26:258][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.46.46:410][443]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.46.46:483][443]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.47.09:606][132]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.47.13:317][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.47.13:317][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.47.13:318][544]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:47:13 PM)
+[2016.09.11-05.47.13:318][544]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.47.13:337][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019709s)
+[2016.09.11-05.47.13:339][544]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.47.13:339][544]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2016.09.11-05.47.13:339][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021456s)
+[2016.09.11-05.47.13:363][544]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.47.13:381][544]LogInit: FAudioDevice initialized.
+[2016.09.11-05.47.13:411][544]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.47.13:417][544]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.47.13
+[2016.09.11-05.47.13:418][544]LogWorld: Bringing up level for play took: 0.006061
+[2016.09.11-05.47.13:419][544]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.47.13:419][544]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.47.13:419][544]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.47.13:421][544]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.47.13:421][544]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.429
+[2016.09.11-05.47.13:421][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.47.22:047][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.47.22:115][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.51.30:672][ 29]LogSavePackage: Save=272.62ms
+[2016.09.11-05.51.30:672][ 29]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMap_Auto4C782784C48BDA6E728DB7DBEBB08CEF6.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2016.09.11-05.51.30:675][ 29]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2016.09.11-05.51.30:679][ 29]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.314
+[2016.09.11-05.51.30:679][ 29]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.314
+[2016.09.11-05.51.30:681][ 29]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2016.09.11-05.51.30:694][ 29]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2016.09.11-05.51.30:694][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2016.09.11-05.51.30:789][ 29]LogSavePackage: Save=88.02ms
+[2016.09.11-05.51.30:789][ 29]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter_Auto4B6AC2F744AD08B02CB8BD180F0C098BF.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset'
+[2016.09.11-05.51.30:791][ 29]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto4.uasset
+[2016.09.11-05.51.30:791][ 29]LogFileHelpers: Auto-saving content packages took 0.111
+[2016.09.11-05.54.32:672][757]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-05.54.34:504][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.54.34:504][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-05.54.34:505][920]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 6:54:34 PM)
+[2016.09.11-05.54.34:505][920]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-05.54.34:528][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022935s)
+[2016.09.11-05.54.34:529][920]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-05.54.34:529][920]LogPlayLevel: PIE: World Init took: (0.001432s)
+[2016.09.11-05.54.34:529][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.024705s)
+[2016.09.11-05.54.34:554][920]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-05.54.34:573][920]LogInit: FAudioDevice initialized.
+[2016.09.11-05.54.34:601][920]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-05.54.34:606][920]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-00.54.34
+[2016.09.11-05.54.34:608][920]LogWorld: Bringing up level for play took: 0.005844
+[2016.09.11-05.54.34:608][920]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.54.34:608][920]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-05.54.34:608][920]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.54.34:611][920]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-05.54.34:611][920]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.39
+[2016.09.11-05.54.34:611][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.55.26:968][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-05.55.27:039][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.00.52:718][150]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2016.09.11-06.00.57:399][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" SILENT=true
+[2016.09.11-06.00.57:421][472]LogSavePackage: Save=9.17ms
+[2016.09.11-06.00.57:421][472]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/BasicShapeMaterialB605AF0847446B2E9454F69AB79B6A4F.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset'
+[2016.09.11-06.00.57:431][472]LogSavePackage:Display: Finished SavePackage ../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset
+[2016.09.11-06.00.57:582][472]LogSavePackage: Save=95.56ms
+[2016.09.11-06.00.57:582][472]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonCharacter36BBD3E8469EE09FB565B0A10436DC7C.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2016.09.11-06.00.57:587][472]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2016.09.11-06.00.58:045][472]LogSavePackage: Save=255.55ms
+[2016.09.11-06.00.58:045][472]LogSavePackage: Moving '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Saved/ThirdPersonExampleMapC6430AD7471DFBBCB6768CB1122DC705.tmp' to '../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2016.09.11-06.00.58:049][472]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Joe/Documents/Unreal Projects/MyGame_8_27_16 4.13/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2016.09.11-06.00.58:070][472]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.480
+[2016.09.11-06.02.50:464][ 19]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-06.02.52:474][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.02.52:474][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-06.02.52:474][219]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 7:02:52 PM)
+[2016.09.11-06.02.52:474][219]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-06.02.52:496][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022090s)
+[2016.09.11-06.02.52:497][219]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-06.02.52:498][219]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2016.09.11-06.02.52:498][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023657s)
+[2016.09.11-06.02.52:521][219]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-06.02.52:539][219]LogInit: FAudioDevice initialized.
+[2016.09.11-06.02.52:569][219]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-06.02.52:574][219]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-01.02.52
+[2016.09.11-06.02.52:575][219]LogWorld: Bringing up level for play took: 0.005739
+[2016.09.11-06.02.52:576][219]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-06.02.52:576][219]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-06.02.52:576][219]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-06.02.52:578][219]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-06.02.52:578][219]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.684
+[2016.09.11-06.02.52:578][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.03.19:531][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.03.19:598][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.03.53:549][404]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-06.03.55:487][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.03.55:487][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-06.03.55:488][606]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 7:03:55 PM)
+[2016.09.11-06.03.55:488][606]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-06.03.55:508][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020010s)
+[2016.09.11-06.03.55:509][606]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-06.03.55:509][606]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2016.09.11-06.03.55:509][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021261s)
+[2016.09.11-06.03.55:531][606]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-06.03.55:549][606]LogInit: FAudioDevice initialized.
+[2016.09.11-06.03.55:581][606]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-06.03.55:592][606]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-01.03.55
+[2016.09.11-06.03.55:595][606]LogWorld: Bringing up level for play took: 0.012958
+[2016.09.11-06.03.55:597][606]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-06.03.55:597][606]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-06.03.55:597][606]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-06.03.55:602][606]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-06.03.55:602][606]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.338
+[2016.09.11-06.03.55:602][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.04.01:700][333]LogScript:Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:0000
+[2016.09.11-06.04.01:700][333]PIE:Error: Error Infinite Loop detected in  ThirdPersonCharacter , asserted during  Branch with the following  Call Stack
+[2016.09.11-06.04.01:701][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.04.01:766][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.04.04:998][683]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.04.04:998][683]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.09.11-06.04.04:999][683]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 10, 2016, 7:04:04 PM)
+[2016.09.11-06.04.04:999][683]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2016.09.11-06.04.05:018][683]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019643s)
+[2016.09.11-06.04.05:020][683]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2016.09.11-06.04.05:020][683]LogPlayLevel: PIE: World Init took: (0.001692s)
+[2016.09.11-06.04.05:020][683]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021681s)
+[2016.09.11-06.04.05:040][683]LogInit: XAudio2 using 'Speakers (Logitech Wireless Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2016.09.11-06.04.05:059][683]LogInit: FAudioDevice initialized.
+[2016.09.11-06.04.05:093][683]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2016.09.11-06.04.05:110][683]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2016.09.11-01.04.05
+[2016.09.11-06.04.05:114][683]LogWorld: Bringing up level for play took: 0.018300
+[2016.09.11-06.04.05:115][683]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-06.04.05:115][683]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2016.09.11-06.04.05:115][683]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-06.04.05:119][683]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2016.09.11-06.04.05:119][683]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.144
+[2016.09.11-06.04.05:119][683]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.04.06:581][853]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.04.06:627][853]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2016.09.11-06.04.22:387][672]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2016.09.11-06.04.32:571][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/Th
